@@ -1,7 +1,7 @@
 {
-  "name": "fetch-paginate",
+  "name": "@dword-design/fetch-paginate-fork",
   "description": "Get multiple pages from paginated APIs with fetch.",
-  "version": "6.1.0",
+  "version": "0.0.1",
   "type": "module",
   "exports": {
     ".": {
